@@ -1,3 +1,7 @@
+//==========Written by Matthews Ankon Baroi==========//
+//CSE207 - Section 5
+//Lab 1
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -54,7 +58,7 @@ int main()
         
         
         //Print the sorted arrray
-        printf("\nYour array : ");
+        printf("\nYour array(sorted) : ");
         for(i = 0; i < n; i++)
         {
                 printf("%d\t", a[i]);

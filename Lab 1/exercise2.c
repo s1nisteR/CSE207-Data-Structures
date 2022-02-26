@@ -1,3 +1,8 @@
+//==========Written By Matthews Ankon Baroi==========//
+//CSE207 - Section 5
+//Lab 1
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
