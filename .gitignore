@@ -35,3 +35,6 @@
 *.png
 *.jpg
 *.bat
+*.txt
+
+cmake-build-debug/
